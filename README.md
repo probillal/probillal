@@ -56,7 +56,7 @@
 ## 🌐 Connect With Me
 
 * 💼 LinkedIn: [https://linkedin.com/in/probillal](https://linkedin.com/in/probillal)
-* 📧 Email: [your-prosmbillal@gmail.com](mailto:prosmbillal@gmail.com)
+* 📧 Email: [prosmbillal@gmail.com](mailto:prosmbillal@gmail.com)
 
 ---
 
