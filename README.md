@@ -40,6 +40,12 @@
 * Built with React & Firebase
 * 🔗 Live: [https://ai-model-hub-subscription-website.netlify.app/](https://ai-model-hub-subscription-website.netlify.app/)
 
+
+###🔹 BPL Dream 11
+* A fantasy cricket web app where users build their dream team within a limited budget
+* Built with React & Tailwind CSS
+* 🔗 Live: [https://bpl-dream-11-super-team.netlify.app/](https://bpl-dream-11-super-team.netlify.app/)
+⚙️ Tech: React, Tailwind CSS, DaisyUI, JavaScript
 ---
 
 ## 📊 GitHub Stats
