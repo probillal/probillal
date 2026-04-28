@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👋 Hi, I'm S M Billal Hossain
 
-<!--
-**probillal/probillal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer | React | Next.js | Firebase | Tailwind CSS
 
-Here are some ideas to get you started:
+💻 Passionate about building modern, responsive, and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 🔭 I’m currently working on real-world frontend projects
+* 🌱 Learning advanced concepts in React & Next.js
+* ⚡ Focused on clean UI, performance & UX
+* 🤝 Open to collaboration and freelance opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+* 💻 JavaScript (ES6+)
+* ⚛️ React.js
+* ⚡ Next.js
+* 🔥 Firebase
+* 🎨 Tailwind CSS
+
+---
+
+## 🌟 Featured Projects
+
+### 🔹 DigiTools Platform
+
+* Modern tools-based web application
+* Built with React & Tailwind CSS
+* 🔗 Live: [https://digitools-platform-modern-website.netlify.app/](https://digitools-platform-modern-website.netlify.app/)
+
+### 🔹 AI Model Hub
+
+* Subscription-based AI platform UI
+* Built with React & Firebase
+* 🔗 Live: [https://ai-model-hub-subscription-website.netlify.app/](https://ai-model-hub-subscription-website.netlify.app/)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=probillal&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=probillal&layout=compact&theme=radical)
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=probillal\&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+
+* 💼 LinkedIn: [https://linkedin.com/in/probillal](https://linkedin.com/in/probillal)
+* 📧 Email: [your-email@example.com](mailto:prosmbillal@gmail.com)
+
+---
+
+## 🎯 Fun Fact
+
+💡 I love turning ideas into real-world applications and continuously improving my skills every day.
+
+---
+
+⭐ From [probillal](https://github.com/probillal)
