@@ -45,7 +45,7 @@
 * A fantasy cricket web app where users build their dream team within a limited budget
 * Built with React & Tailwind CSS
 * 🔗 Live: [https://bpl-dream-11-super-team.netlify.app/](https://bpl-dream-11-super-team.netlify.app/)
-⚙️ Tech: React, Tailwind CSS, DaisyUI, JavaScript
+
 ---
 
 ## 📊 GitHub Stats
