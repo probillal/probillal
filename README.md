@@ -50,10 +50,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=probillal&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=probillal&layout=compact&theme=radical)
-
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=probillal&theme=radical)
 ---
 
 ## 🔥 Streak Stats
