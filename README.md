@@ -7,12 +7,14 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-* 🔭 I’m currently working on real-world frontend projects
-* 🌱 Learning advanced concepts in React & Next.js
-* ⚡ Focused on clean UI, performance & UX
-* 🤝 Open to collaboration and freelance opportunities
+- 🔭 I'm currently working on real-world frontend web applications.
+- 🌱 I'm currently learning advanced React, Next.js, and backend development.
+- 💡 I enjoy building clean, responsive, and user-friendly web applications.
+- ⚡ I'm passionate about performance optimization, clean code, and great user experience.
+- 🤝 I'm open to collaboration on open-source and freelance projects.
+- 🚀 My goal is to become a skilled Full-Stack JavaScript Developer.
 
 ---
 
