@@ -91,7 +91,7 @@
 
 * 💼 LinkedIn: [https://linkedin.com/in/probillal](https://linkedin.com/in/probillal)
 * 📧 Email: [prosmbillal@gmail.com](mailto:prosmbillal@gmail.com)
-* 🌐 Portfolio: [probillal/my-portfolio-website-nextjs](probillal/my-portfolio-website-nextjs)
+* 🌐 Portfolio: [https://my-portfolio-website-ivory-sigma.vercel.app](https://my-portfolio-website-ivory-sigma.vercel.app)
 
 ---
 
