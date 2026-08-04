@@ -87,7 +87,7 @@
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=probillal&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=probillal&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ## 🌐 Connect With Me
 
